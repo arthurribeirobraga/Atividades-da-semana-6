@@ -1,0 +1,22 @@
+body{
+   
+    margin: 0;
+    padding: 0;
+
+
+    background-color:#00469e;
+}
+
+.Redes-sociais{
+text-align: center;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.button{
+    padding: 20px;
+    display:list-item;
+}
