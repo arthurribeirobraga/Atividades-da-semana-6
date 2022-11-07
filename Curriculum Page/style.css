@@ -1,0 +1,93 @@
+.imagem{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 40px;
+top: 40px;
+
+background: url(.png);
+border-radius: 10px;
+}
+
+h1{
+    position: absolute;
+width: 137px;
+height: 28px;
+left: 106px;
+top: 42px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+
+
+color: #001737;
+}
+
+p{
+    position: absolute;
+width: 191px;
+height: 16px;
+left: 106px;
+top: 73px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+display: flex;
+align-items: center;
+
+
+color: #405169;
+
+opacity: 0.75;
+}
+
+
+p1{
+    position: absolute;
+width: 310px;
+height: 56px;
+left: 40px;
+top: 106px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 14px;
+
+color: #405169;
+
+}
+
+h2{
+    position: absolute;
+width: 77px;
+height: 18px;
+left: 40px;
+top: 202px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+
+color: #001737;
+}
+
+.Imagem-dois{
+    
+    left: 0%;
+    right: 92.96%;
+    top: 0%;
+    bottom: 60%;
+    
+    background: url(.png);
+    border-radius: 6px;
+}
